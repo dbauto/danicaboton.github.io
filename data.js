@@ -7,6 +7,7 @@ window.DCODE_PROJECTS = [
     subtitle: 'A custom Zoho CRM recruitment platform that centralizes applicant operations, automates the recruitment lifecycle through Zoho CRM workflow-triggered Deluge functions, and uses n8n only for resume analysis.',
     status: 'Production Zoho CRM + n8n resume-analysis evidence · reconstructed interface',
     role: 'Systems Architect · Zoho CRM Engineer · Automation Developer',
+    period: 'Dec 2025 – Feb 2026',
     stack: ['Zoho CRM','Deluge','Workflow Rules','Custom Modules','Subforms & Lookups','Reports & Analytics','Webhooks','n8n','OpenAI / Gemini-ready'],
     metrics: [
       ['1,432','documented Zoho CRM resume-analysis webhook calls'],
@@ -45,6 +46,7 @@ window.DCODE_PROJECTS = [
     subtitle: 'A secure hiring-manager workspace connected to a production Zoho Recruit and n8n AI-screening workflow for candidate review, structured evaluation, interview coordination, and controlled write-back.',
     status: 'Production workflow evidence · reconstructed portal',
     role: 'Solutions Architect · Automation Developer · Full-Stack System Designer',
+    period: 'Aug 2025 – Oct 2025',
     stack: ['Zoho Recruit','Webhooks','n8n','OpenAI / Gemini','React','TypeScript','Cloudflare Workers','Supabase PostgreSQL'],
     metrics: [
       ['1,432','documented Zoho webhook calls'],
@@ -117,6 +119,7 @@ window.DCODE_PROJECTS = [
     subtitle: 'A drag-and-drop and Google Drive processing system that converts collection documents into validated operational records, exception queues, and management-ready reports.',
     status: 'Production system / reconstructed demo',
     role: 'Automation Systems Architect · n8n Workflow Engineer',
+    period: 'Nov 2025 – Nov 2025',
     stack: ['n8n','Web Upload','Google Drive','Tesseract OCR','Supabase / PostgreSQL','Excel Reports','JavaScript / Python'],
     metrics: [
       ['400','store-scale operating context'],
@@ -150,6 +153,7 @@ window.DCODE_PROJECTS = [
     subtitle: 'Large-volume recruitment resume migration with Google Drive resume links, parsed candidate fields, facility mapping, confidence scoring, controlled Zoho writes, reconciliation, and workflow reliability.',
     status: 'Production work reconstruction',
     role: 'Zoho CRM Engineer · Migration & Automation Specialist',
+    period: 'Apr 2026 – Apr 2026',
     stack: ['Zoho CRM','Zoho Recruit','Deluge','Workflow Rules','REST APIs','OAuth2','CSV / Batch Processing'],
     metrics: [
       ['120K+','overall migration program'],
@@ -208,6 +212,7 @@ window.DCODE_PROJECTS = [
     subtitle: 'A Google-powered project management workspace connecting task execution, live work-session tracking, planned-versus-actual man-hours, revisions, approvals, and project labor-cost reporting.',
     status: 'Interactive portfolio reconstruction',
     role: 'Systems Architect · Google Workspace Automation Developer',
+    period: 'Apr 2025 – Jun 2025',
     stack: ['Google Sheets','Apps Script','AppSheet','Looker Studio','Google Drive','Gmail','Google Calendar'],
     metrics: [
       ['6','active projects'],
